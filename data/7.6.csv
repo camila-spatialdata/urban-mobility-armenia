@@ -1,0 +1,51 @@
+﻿;;;;Año;;;;
+Estado;Causa del Accidente;Descripción de la Causa;Código;2019;2018;2017;2016;2015
+Quindio;De la vía;Ausencia o deficiencia en demarcación;302;;0;0;2;0
+;;Dejar o movilizar semovientes en la vía;307;2;0;2;2;5
+;;Huecos;306;1;0;0;4;1
+;;Obstáculos en la vía;305;;0;0;0;1
+;;Otras;308;1;0;0;0;2
+;;Superficie húmeda;304;1;0;0;1;1
+;;Superficie lisa;303;;0;2;1;1
+;Del conductor de motocicleta o bicicleta;Transitar distante de la cera u orilla de la calzada;93;;0;0;0;0
+;;Transitar entre vehículos;98;;0;1;0;0
+;;Transportar otra persona o cosas;90;;0;0;0;0
+;Del conductor en general;Adelantar cerrando;103;2;0;1;1;1
+;;Adelantar en curva o  pendientes;101;2;0;0;1;0
+;;adelantar en zona prohibida;105;;0;0;0;0
+;;Adelantar invadiendo carril de sentido contrario;104;2;4;4;6;1
+;;Adelantar invadiendo carril del mismo sentido en Z;158;1;0;4;0;0
+;;Adelantar por la derecha;102;2;0;3;0;2
+;;Arrancar sin precaución;145;4;1;0;4;3
+;;cambio de carril sin indicación e inadecuado;107;;0;0;0;0
+;;Carga sobresaliente sin señales;108;;0;0;0;0
+;;Desobedecer señales de Tránsito;112;8;9;5;4;4
+;;Embriaguez aparente;114;1;0;1;0;0
+;;Embriaguez o droga;115;9;0;0;4;2
+;;Exceso de velocidad;116;1;0;2;2;2
+;;Falta mantenimiento mecánico;118;;0;2;1;0
+;;frenar bruscamente;119;1;0;0;3;0
+;;no mantener distancia de seguridad;121;19;0;3;14;14
+;;no respetar prelación;132;8;0;9;9;3
+;;Otra;157;159;43;240;259;1
+;;Pasajeros obstruyendo al conductor o sobre cupo;120;;0;0;0;0
+;;poner en marcha un vehículo sin precauciones;143;12;0;2;6;4
+;;Realizar giro en “;146;;0;0;0;0
+;;Reverso imprudente;133;3;1;1;3;1
+;;Transitar sin los dispositivos luminosos de detención;161;;0;0;3;0
+;;Vehículo mal estacionado;141;3;0;3;0;2
+;Del pasajero;Descender o subir del vehículo en marcha;502;;0;0;0;0
+;;Otra;506;;0;0;0;2
+;;Viajar colgado o en los estribos;501;1;0;0;0;0
+;Del peatón;Cruzar en curva;408;;0;0;0;0
+;;Cruzar en estado de embriaguez;410;1;0;0;0;1
+;;Cruzar sin observar;409;11;0;15;15;18
+;;Pararse sobre la calzada;407;;0;0;0;1
+;;Transitar por la Calzada;404;2;0;2;1;0
+;Del vehículo;Falla en la dirección;203;;0;0;0;1
+;;Falla en las puertas;212;;0;0;0;1
+;;Fallas en las Llantas;201;1;0;0;0;2
+;;Fallas en los Frenos;202;5;0;2;1;4
+;;Fallas en luces direccionales;204;;0;0;0;0
+;;Otra;217;1;0;0;0;1
+;;Otras;411;3;0;0;0;0
