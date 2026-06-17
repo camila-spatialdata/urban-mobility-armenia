@@ -1,4 +1,5 @@
 # urban-mobility-armenia
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camila-spatialdata/urban-mobility-armenia/blob/main/notebooks/PI_3.ipynb)
 This project analyzes urban mobility patterns in Armenia, Colombia, using data analysis, spatial analysis, and clustering techniques to identify areas with similar mobility characteristics. The objective is to transform geographic and tabular data into meaningful insights that support urban planning and decision-making.
 
 ## 🛠️ Tecnologías Utilizadas
